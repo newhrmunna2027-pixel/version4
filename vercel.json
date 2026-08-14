@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://resource-catering-treat-geo.trycloudflare.com/$1"
+      "destination": "https://biography-beliefs-responding-preserve.trycloudflare.com/$1"
     }
   ]
 }
