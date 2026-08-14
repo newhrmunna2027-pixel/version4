@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://widespread-diameter-cylinder-packages.trycloudflare.com/$1"
+      "destination": "https://wings-strike-sensors-contents.trycloudflare.com/$1"
     }
   ]
 }
