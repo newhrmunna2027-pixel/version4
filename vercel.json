@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://trusted-pen-absorption-hunter.trycloudflare.com/$1"
+      "destination": "https://precision-advisory-shopzilla-buffalo.trycloudflare.com/$1"
     }
   ]
 }
