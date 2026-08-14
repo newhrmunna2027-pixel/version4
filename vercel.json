@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://resource-catering-treat-geo.trycloudflare.com/$1"
+    }
+  ]
+}
