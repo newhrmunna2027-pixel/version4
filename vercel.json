@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://precision-advisory-shopzilla-buffalo.trycloudflare.com/$1"
+      "destination": "https://lists-jose-person-dense.trycloudflare.com/$1"
     }
   ]
 }
