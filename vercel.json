@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://nasa-organisms-theoretical-core.trycloudflare.com/$1"
+      "destination": "https://springs-boating-lighter-plant.trycloudflare.com/$1"
     }
   ]
 }
