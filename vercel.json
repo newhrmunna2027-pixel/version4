@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://wings-strike-sensors-contents.trycloudflare.com/$1"
+      "destination": "https://trusted-pen-absorption-hunter.trycloudflare.com/$1"
     }
   ]
 }
