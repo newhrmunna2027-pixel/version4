@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://not-rolls-each-photos.trycloudflare.com/$1"
+      "destination": "https://cyber-tax-uni-exp.trycloudflare.com/$1"
     }
   ]
 }
