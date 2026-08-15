@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://request-reached-pixel-printer.trycloudflare.com/$1"
+      "destination": "https://explaining-grades-magical-boston.trycloudflare.com/$1"
     }
   ]
 }
