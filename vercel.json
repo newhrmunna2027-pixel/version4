@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://gary-corners-coalition-implementation.trycloudflare.com/$1"
+      "destination": "https://voip-reservoir-disabilities-editorial.trycloudflare.com/$1"
     }
   ]
 }
