@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://flyer-exhibitions-abilities-steps.trycloudflare.com/$1"
+      "destination": "https://progressive-stage-expense-compounds.trycloudflare.com/$1"
     }
   ]
 }
