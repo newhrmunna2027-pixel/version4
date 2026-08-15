@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://ensuring-trans-dressed-trader.trycloudflare.com/$1"
+      "destination": "https://flyer-exhibitions-abilities-steps.trycloudflare.com/$1"
     }
   ]
 }
