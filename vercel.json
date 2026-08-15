@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://voip-reservoir-disabilities-editorial.trycloudflare.com/$1"
+      "destination": "https://request-reached-pixel-printer.trycloudflare.com/$1"
     }
   ]
 }
