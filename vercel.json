@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://phd-linking-troy-were.trycloudflare.com/$1"
+      "destination": "https://not-rolls-each-photos.trycloudflare.com/$1"
     }
   ]
 }
