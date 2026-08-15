@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://fat-titles-aquatic-its.trycloudflare.com/$1"
+      "destination": "https://vid-blocking-chancellor-hood.trycloudflare.com/$1"
     }
   ]
 }
