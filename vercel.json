@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://explaining-grades-magical-boston.trycloudflare.com/$1"
+      "destination": "https://tmp-volume-geneva-titled.trycloudflare.com/$1"
     }
   ]
 }
