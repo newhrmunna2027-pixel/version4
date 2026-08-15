@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://cyber-tax-uni-exp.trycloudflare.com/$1"
+      "destination": "https://gary-corners-coalition-implementation.trycloudflare.com/$1"
     }
   ]
 }
