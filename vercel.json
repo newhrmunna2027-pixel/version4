@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://based-yoga-museum-eric.trycloudflare.com/$1"
+      "destination": "https://ensuring-trans-dressed-trader.trycloudflare.com/$1"
     }
   ]
 }
