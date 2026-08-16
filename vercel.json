@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://headset-republican-present-dec.trycloudflare.com/$1"
+      "destination": "https://geographical-matches-catalyst-spam.trycloudflare.com/$1"
     }
   ]
 }
