@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://challenging-marks-warming-filme.trycloudflare.com/$1"
+      "destination": "https://republic-storm-industry-mens.trycloudflare.com/$1"
     }
   ]
 }
