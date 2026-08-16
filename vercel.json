@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://herself-contains-telescope-mistress.trycloudflare.com/$1"
+      "destination": "https://integrating-ruth-metabolism-cooperative.trycloudflare.com/$1"
     }
   ]
 }
