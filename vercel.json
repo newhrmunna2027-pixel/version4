@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://normally-oliver-beam-gis.trycloudflare.com/$1"
+      "destination": "https://element-husband-read-donors.trycloudflare.com/$1"
     }
   ]
 }
