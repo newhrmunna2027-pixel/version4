@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://hoping-tiffany-date-passing.trycloudflare.com/$1"
+      "destination": "https://hartford-websites-flat-method.trycloudflare.com/$1"
     }
   ]
 }
