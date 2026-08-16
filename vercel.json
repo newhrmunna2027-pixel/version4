@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://republic-storm-industry-mens.trycloudflare.com/$1"
+      "destination": "https://cats-increasing-raymond-designer.trycloudflare.com/$1"
     }
   ]
 }
