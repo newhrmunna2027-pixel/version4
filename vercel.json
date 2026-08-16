@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://clock-robbie-examining-venues.trycloudflare.com/$1"
+      "destination": "https://graph-authentic-pal-phantom.trycloudflare.com/$1"
     }
   ]
 }
