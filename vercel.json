@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://pair-cylinder-sized-fwd.trycloudflare.com/$1"
+      "destination": "https://clock-robbie-examining-venues.trycloudflare.com/$1"
     }
   ]
 }
