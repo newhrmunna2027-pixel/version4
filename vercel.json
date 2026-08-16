@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://candles-pierce-harbour-vehicle.trycloudflare.com/$1"
+      "destination": "https://challenging-marks-warming-filme.trycloudflare.com/$1"
     }
   ]
 }
