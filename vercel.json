@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://concentration-gives-pick-tar.trycloudflare.com/$1"
+      "destination": "https://theories-glen-bee-situation.trycloudflare.com/$1"
     }
   ]
 }
