@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://sussex-thereof-blonde-retain.trycloudflare.com/$1"
+      "destination": "https://oriented-nsw-suffering-pin.trycloudflare.com/$1"
     }
   ]
 }
