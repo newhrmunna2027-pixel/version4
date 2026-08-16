@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://cats-increasing-raymond-designer.trycloudflare.com/$1"
+      "destination": "https://headset-republican-present-dec.trycloudflare.com/$1"
     }
   ]
 }
