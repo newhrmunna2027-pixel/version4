@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://copying-parents-highlights-alto.trycloudflare.com/$1"
+      "destination": "https://pair-cylinder-sized-fwd.trycloudflare.com/$1"
     }
   ]
 }
