@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://hartford-websites-flat-method.trycloudflare.com/$1"
+      "destination": "https://whale-dns-displays-tba.trycloudflare.com/$1"
     }
   ]
 }
