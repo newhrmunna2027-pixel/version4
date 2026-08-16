@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://manufactured-main-bet-von.trycloudflare.com/$1"
+      "destination": "https://sequences-array-strengthening-balance.trycloudflare.com/$1"
     }
   ]
 }
