@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://kingston-gossip-guaranteed-employment.trycloudflare.com/$1"
+      "destination": "https://amendment-extras-physiology-improving.trycloudflare.com/$1"
     }
   ]
 }
