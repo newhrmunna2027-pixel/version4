@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://ratio-quotes-cologne-understood.trycloudflare.com/$1"
+      "destination": "https://herself-contains-telescope-mistress.trycloudflare.com/$1"
     }
   ]
 }
