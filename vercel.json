@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://element-husband-read-donors.trycloudflare.com/$1"
+      "destination": "https://jason-author-liabilities-composed.trycloudflare.com/$1"
     }
   ]
 }
