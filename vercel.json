@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://integrating-ruth-metabolism-cooperative.trycloudflare.com/$1"
+      "destination": "https://copying-parents-highlights-alto.trycloudflare.com/$1"
     }
   ]
 }
