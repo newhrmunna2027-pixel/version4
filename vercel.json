@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://plates-prophet-consistently-medline.trycloudflare.com/$1"
+      "destination": "https://maritime-von-conflict-storm.trycloudflare.com/$1"
     }
   ]
 }
