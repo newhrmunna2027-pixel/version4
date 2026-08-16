@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://amendment-extras-physiology-improving.trycloudflare.com/$1"
+      "destination": "https://candles-pierce-harbour-vehicle.trycloudflare.com/$1"
     }
   ]
 }
