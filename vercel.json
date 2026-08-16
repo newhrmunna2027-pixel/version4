@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://whale-dns-displays-tba.trycloudflare.com/$1"
+      "destination": "https://normally-oliver-beam-gis.trycloudflare.com/$1"
     }
   ]
 }
