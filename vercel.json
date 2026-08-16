@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://geographical-matches-catalyst-spam.trycloudflare.com/$1"
+      "destination": "https://plates-prophet-consistently-medline.trycloudflare.com/$1"
     }
   ]
 }
