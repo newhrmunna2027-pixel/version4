@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://graph-authentic-pal-phantom.trycloudflare.com/$1"
+      "destination": "https://manufactured-main-bet-von.trycloudflare.com/$1"
     }
   ]
 }
