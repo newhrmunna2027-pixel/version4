@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://consumers-muscles-lawrence-clothes.trycloudflare.com/$1"
+      "destination": "https://hoping-tiffany-date-passing.trycloudflare.com/$1"
     }
   ]
 }
