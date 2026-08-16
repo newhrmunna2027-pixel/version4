@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://theories-glen-bee-situation.trycloudflare.com/$1"
+      "destination": "https://ratio-quotes-cologne-understood.trycloudflare.com/$1"
     }
   ]
 }
