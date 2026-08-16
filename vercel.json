@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://oriented-nsw-suffering-pin.trycloudflare.com/$1"
+      "destination": "https://concentration-gives-pick-tar.trycloudflare.com/$1"
     }
   ]
 }
