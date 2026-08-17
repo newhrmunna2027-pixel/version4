@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://maritime-von-conflict-storm.trycloudflare.com/$1"
+      "destination": "https://overview-exchanges-latitude-specialized.trycloudflare.com/$1"
     }
   ]
 }
