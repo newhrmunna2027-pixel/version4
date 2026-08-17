@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://overview-exchanges-latitude-specialized.trycloudflare.com/$1"
+      "destination": "https://salmon-merry-state--newhrmunna2027.replit.app/$1"
     }
   ]
 }
