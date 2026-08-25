@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://rail-pens-canvas-validation.trycloudflare.com/$1"
+      "destination": "https://nearby-bears-genres-calculation.trycloudflare.com/$1"
     }
   ]
 }
