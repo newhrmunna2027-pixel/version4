@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://sql-resulted-resist-growing.trycloudflare.com/$1"
+      "destination": "https://rail-pens-canvas-validation.trycloudflare.com$1"
     }
   ]
 }
