@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://nearby-bears-genres-calculation.trycloudflare.com/$1"
+      "destination": "https://works-diary-thoroughly-mens.trycloudflare.com/$1"
     }
   ]
 }
