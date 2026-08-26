@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://works-diary-thoroughly-mens.trycloudflare.com/$1"
+      "destination": "https://affiliates-established-devices-cement.trycloudflare.com/$1"
     }
   ]
 }
