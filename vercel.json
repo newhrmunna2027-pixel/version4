@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://trip-etc-dis-finite.trycloudflare.com/$1"
+      "destination": "https://wherever-positioning-chapter-citations.trycloudflare.com/$1"
     }
   ]
 }
