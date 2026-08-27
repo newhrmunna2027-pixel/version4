@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://contrast-metallica-pulling-calculation.trycloudflare.com/$1"
+      "destination": "https://accommodations-francis-moderator-ethical.trycloudflare.com/$1"
     }
   ]
 }
