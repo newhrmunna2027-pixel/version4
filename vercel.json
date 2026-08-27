@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://inline-minimum-emily-supposed.trycloudflare.com/$1"
+      "destination": "https://professional-offices-caroline-routing.trycloudflare.com/$1"
     }
   ]
 }
