@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://troops-circus-auto-advised.trycloudflare.com/$1"
+      "destination": "https://ment-mountain-single-nation.trycloudflare.com/$1"
     }
   ]
 }
