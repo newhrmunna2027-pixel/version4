@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://wherever-positioning-chapter-citations.trycloudflare.com/$1"
+      "destination": "https://contrast-metallica-pulling-calculation.trycloudflare.com/$1"
     }
   ]
 }
