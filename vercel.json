@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://affiliates-established-devices-cement.trycloudflare.com/$1"
+      "destination": "https://trip-etc-dis-finite.trycloudflare.com/$1"
     }
   ]
 }
