@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://accommodations-francis-moderator-ethical.trycloudflare.com/$1"
+      "destination": "https://anymore-insertion-racing-enhancement.trycloudflare.com/$1"
     }
   ]
 }
