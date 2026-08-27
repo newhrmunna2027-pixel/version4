@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://netscape-ethernet-irrigation-vatican.trycloudflare.com/$1"
+      "destination": "https://troops-circus-auto-advised.trycloudflare.com/$1"
     }
   ]
 }
