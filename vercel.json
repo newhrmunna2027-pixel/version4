@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://ment-mountain-single-nation.trycloudflare.com/$1"
+      "destination": "https://inline-minimum-emily-supposed.trycloudflare.com/$1"
     }
   ]
 }
