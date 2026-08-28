@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://blocked-dod-prayers-penny.trycloudflare.com/$1"
+      "destination": "https://riders-counseling-determines-nations.trycloudflare.com/$1"
     }
   ]
 }
