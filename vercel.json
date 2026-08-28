@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://professional-offices-caroline-routing.trycloudflare.com/$1"
+      "destination": "https://inquiry-andy-helps-exit.trycloudflare.com/$1"
     }
   ]
 }
