@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://viewed-folks-listening-procedures.trycloudflare.com/$1"
+      "destination": "http://51.75.118.170:20179/$1"
     }
   ]
 }
