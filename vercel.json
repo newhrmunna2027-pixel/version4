@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://blanket-aimed-book-minus.trycloudflare.com/$1"
+      "destination": "https://virginia-katie-elect-graduated.trycloudflare.com/$1"
     }
   ]
 }
