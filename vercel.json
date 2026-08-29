@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://however-poly-same-ranking.trycloudflare.com/$1"
+      "destination": "https://blanket-aimed-book-minus.trycloudflare.com/$1"
     }
   ]
 }
