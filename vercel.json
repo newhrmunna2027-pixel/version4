@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://janet-lesser-acquisition-anyone.trycloudflare.com/$1"
+      "destination": "https://however-poly-same-ranking.trycloudflare.com/$1"
     }
   ]
 }
